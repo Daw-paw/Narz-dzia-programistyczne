@@ -1,1 +1,1 @@
-# Narz-dzia-programistyczne
+# Narzedzia-programistyczne
